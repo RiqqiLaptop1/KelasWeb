@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.input {
+  width: 600px;
+  background-color: aqua;
+}
+
+.kosong {
+  text-align: center;
+  color: red;
+}
+
+body {
+  margin-left: 30px;
+}
